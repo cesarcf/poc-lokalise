@@ -1,8 +1,8 @@
 {
-    "app.name": "Application Name",
-    "products.title": "Products",
-    "products.counter": "Products {amount}",
-    "products.loading": "Loading Products...",
-    "products.category": "Product Category",
-    "products.owner": "Product Owner"
+  "app.name": "Zara Home",
+  "products.title": "Products",
+  "products.counter": "Products {amount}",
+  "products.loading": "Loading Products...",
+  "products.category": "Product Category",
+  "products.owner": "Product Owner"
 }
