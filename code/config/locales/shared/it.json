@@ -1,8 +1,8 @@
 {
-    "app.name": "Nome dell'Applicazione",
-    "products.title": "Prodotti",
-    "products.counter": "{amount} Prodotti",
-    "products.loading": "Caricamento Prodotti...",
-    "products.category": "Categoria di Prodotto",
-    "products.owner": "Product Owner"
+  "app.name": "Nome dell'Applicazione",
+  "products.title": "Prodotti",
+  "products.counter": "{amount} Prodotti",
+  "products.loading": "Caricamento Prodotti...",
+  "products.category": "Categoria di Prodotto",
+  "products.owner": "Proprietario del Prodotto"
 }
