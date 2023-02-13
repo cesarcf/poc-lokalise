@@ -3,5 +3,6 @@
     "products.title": "Productos",
     "products.counter": "{amount} Productos",
     "products.loading": "Cargando los Productos...",
-    "products.category": "Categoría de productos"
+    "products.category": "Categoría de productos",
+    "products.owner": "Product Owner"
 }
