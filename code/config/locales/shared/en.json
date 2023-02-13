@@ -1,6 +1,7 @@
 {
-  "app.name": "Application Name",
-  "products.title": "Products",
-  "products.counter": "Products {amount}",
-  "products.loading": "Loading Products..."
+    "app.name": "Application Name",
+    "products.title": "Products",
+    "products.counter": "Products {amount}",
+    "products.loading": "Loading Products...",
+    "products.category": "Product Category"
 }
