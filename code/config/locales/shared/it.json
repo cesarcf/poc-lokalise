@@ -1,0 +1,7 @@
+{
+    "app.name": "Nome dell'applicazione",
+    "products.title": "Prodotti",
+    "products.counter": "{amount} Prodotti",
+    "products.loading": "Caricamento Prodotti...",
+    "products.category": "Categoria di Prodotto"
+}
